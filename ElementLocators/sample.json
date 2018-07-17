@@ -1,0 +1,31 @@
+
+{
+  "name":"Testing World",
+  "profile":"Automation",
+  "tools":["Selenium","Protractor","Jmeter","SOAPUI"],
+
+  "address":[
+  {
+    "name":"Raj",
+    "street":"Vishal Nagar",
+    "city":"Pune"
+  },
+    {
+      "name":"Hemant",
+      "street":"High Stree",
+      "city":"Mumbai"
+    }
+
+    ],
+
+  "address1":
+  {
+    "homeAddress":
+    {
+      "street":"Fashion Street",
+      "city":"LA"
+    }
+  }
+
+
+}
